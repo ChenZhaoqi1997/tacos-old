@@ -14,3 +14,8 @@ P29：
 IDEA有EditStarter插件
 在pom.xml的dependencies中右键，
 点击Generate，然后进行搜索即可。
+
+P56:
+spring-boot-starter-jdbc(JDBC API)
+应该替换为
+spring-boot-starter-data-jdbc(Spring.data.jdbc)
